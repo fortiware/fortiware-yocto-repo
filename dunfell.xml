@@ -11,7 +11,7 @@
   	<project name="meta-openembedded" path="meta-openembedded" remote="meta-openembedded" revision="dunfell"/>
 
 	<!-- Updater layers -->
-	<project path="meta-updater" name="advancedtelematic/meta-updater" />
+	<project path="meta-updater" name="uptane/meta-updater" />
 	<project path="meta-updater-raspberrypi" name="advancedtelematic/meta-updater-raspberrypi" />
 	<project path="meta-updater-minnowboard" name="advancedtelematic/meta-updater-minnowboard" />
 	<project path="meta-updater-qemux86-64" name="advancedtelematic/meta-updater-qemux86-64" />
